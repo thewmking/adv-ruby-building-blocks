@@ -1,2 +1,2 @@
-# bubble-sort
-https://github.com/thewmking/bubble-sort.git
+# bubble-sort & enumerable projects
+http://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks?ref=lnav
